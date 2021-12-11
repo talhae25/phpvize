@@ -1,0 +1,66 @@
+body{
+	background-image: url("bg.jpg");
+
+}
+.buton{
+
+	width: 200px; 
+	height: 40px;
+	background-color: black;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	border-radius: 25px;
+}
+.buton:hover{
+	background-color: red;
+	color: #e4f2f4;
+}
+.anabaslik{
+	font-weight: bold;
+	font-size: 40px;
+	color: black;
+}
+.baslik{
+	font-weight: bold;
+	font-size: 20px;
+
+}
+.tablo{
+
+	margin-left: 450px;
+	margin-top: 0px;
+border-style: solid;
+border-color:black;
+border-radius: 8px;
+}
+.msj{
+	margin-left: 450px;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	
+}
+.link{
+	color: black;	
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 25px;
+
+}
+.link:hover{
+	color: red;
+}
+tr{
+	background-color: white;
+;
+}
+.txtarea{
+	background-color: #e4f2f4
+
+;
+	color: black;
+	font-weight: bold
+	border-radius:15px;
+	border-style: solid;
+}
